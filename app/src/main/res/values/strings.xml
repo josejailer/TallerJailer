@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Taller Jailer</string>
+    <string name="facebook_app_id">350286882051711</string>
+    <string name="fb_login_protocol_scheme">fb350286882051711</string>
+    <string name="escribe_tarea">Que tienes que hacer ?</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nombre_usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingreso">Click en Ingresar</string>
+    <string name="nombres_apellidos">Nombres y Apellidos</string>
+    <string name="tienes_usuario">Ya tienes un usuario</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="cancel_login">Se cancelo la operacion</string>
+    <string name="error_login">Ocurrio un error al ingresar</string>
+    <string name="cerrar_seseion">Cerrar Sesion</string>
+
+    <string name="firebase_error_login">Error al iniciar sesion en Firebase</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="tarea">Agregar Tarea</string>
+    <string name="fecha">Fecha</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="show_dialog">Show dialog</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="login_label">Login</string>
+    <string name="success_login_msg">Login successful</string>
+    <string name="error_login_msg">Please fill any empty fields</string>
+
+
+</resources>
